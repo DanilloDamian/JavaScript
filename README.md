@@ -1,5 +1,7 @@
 <strong>This project was carried out during a course on the Alura platform</strong>
 
+https://danillodamian.github.io/JavaScript/
+
 This project simulates a list of items to put in a travel backpack.
 
 <img height="360em" src="https://github.com/DanilloDamian/JavaScript/blob/main/Content/img/Screenshot_1.png"/>
